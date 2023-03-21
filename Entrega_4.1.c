@@ -7,7 +7,7 @@ int main(int argc, char argv[]) {
 	char peticion[100];
 	char respuesta[100];
 	
-	strcpy (peticion, Miguel47Juan12Maria22Marcos19Ana34);
+	strcpy (peticion, Ferran22Miguel31Maria29Pol56Ana38);
 	
 	char nombre [20];
 	int edad;
